@@ -1,6 +1,6 @@
 #Tera Schaller 7/20/2017
 #Udacuty fundamentals of Python tutorial
-#Use turtle module to draw fractals
+#Use turtle module to draw a spiral of squares
 #Python 3.6.1
 
 import turtle
